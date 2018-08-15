@@ -1,0 +1,18 @@
+
+/* Class = "UIButton"; normalTitle = "English"; ObjectID = "5s9-fE-ifX"; */
+"5s9-fE-ifX.normalTitle" = "English";
+
+/* Class = "UILabel"; text = "Testing"; ObjectID = "BVG-n9-aNW"; */
+"BVG-n9-aNW.text" = "Testing";
+
+/* Class = "UIButton"; normalTitle = "Arabic"; ObjectID = "JkF-2C-aX8"; */
+"JkF-2C-aX8.normalTitle" = "Arabic";
+
+/* Class = "UILabel"; text = "Welcome"; ObjectID = "Oo4-6k-i9J"; */
+"Oo4-6k-i9J.text" = "Welcome";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "S2U-eU-Jx8"; */
+"S2U-eU-Jx8.title" = "Back";
+
+/* Class = "UILabel"; text = "Test"; ObjectID = "hJs-Ya-rza"; */
+"hJs-Ya-rza.text" = "Test";

@@ -20,6 +20,19 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
-
+    @IBAction func changeLanguage(_ sender: Any) {
+        let button = sender as! UIButton
+        var language : String?
+        if button.tag == 0 {
+            language = "en"
+        }else{
+            language = "ar"
+        }
+        
+        Bundle.setLanguage(language)
+        
+        performSegue(withIdentifier: "home_segue", sender: self)
+    }
+    
 }
 
