@@ -11,3 +11,6 @@
 
 /* Class = "UILabel"; text = "Label"; ObjectID = "hJs-Ya-rza"; */
 "hJs-Ya-rza.text" = "ضع الكلمة المناسبة";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "S2U-eU-Jx8"; */
+"S2U-eU-Jx8.title" = "الى الخلف";
